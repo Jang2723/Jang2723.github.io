@@ -3,9 +3,9 @@ layout: post
 title: Today I Learned(Github Pages)
 date: 2024-02-16 15:19:40 +0900
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: github-logo.png # Add image post (optional)
+img: Github_Logo.png # Add image post (optional)
 fig-cation: # Add figcation (optional)
-tags: [Backend,Java,Github]
+tags: [Backend,Java,Github,Jekyll,Ruby]
 ---
 
 ## Github Pages
